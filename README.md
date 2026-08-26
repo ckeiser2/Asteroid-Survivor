@@ -11,7 +11,7 @@
 
 **Refer to link below for playable web build**
 
-[Playable_Version_Here:](https://ckeiser2.github.io/portfolio/projects/asteroid_survivors/)
+[Playable_Version_Here:](https://ckeiser2.github.io/portfolio/games/asteroid-survivors/)
 
 ### Refer to demo folder for updates on development
 
