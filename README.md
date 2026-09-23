@@ -21,4 +21,4 @@
 - More space objects
 - More upgrades
 
-(Playable on Itch here:)[https://keiserdev.itch.io/asteroid-survivors]
+[Playable on Itch here:](https://keiserdev.itch.io/asteroid-survivors)
